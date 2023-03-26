@@ -1,0 +1,54 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "item1",
+            "price": 20,
+            "count": 1,
+            "src": "1.jpg",
+            "description": "this is item1"
+        },
+        {
+            "id": 2,
+            "title": "item2",
+            "price": 30,
+            "count": 1,
+            "src": "2.jpg",
+            "description": "this is item2"
+        },
+        {
+            "id": 3,
+            "title": "item3",
+            "price": 40,
+            "count": 1,
+            "src": "3.jpg",
+            "description": "this is item3"
+        },
+        {
+            "id": 4,
+            "title": "item4",
+            "price": 40,
+            "count": 1,
+            "src": "4.jpg",
+            "description": "this is item4"
+        },
+        {
+            "id": 5,
+            "title": "item5",
+            "price": 5,
+            "count": 1,
+            "src": "5.jpg",
+            "description": "this is item5"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
